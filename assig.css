@@ -377,7 +377,160 @@ width: 100%;
    height: 750px;
  
 }
-.holyday-text-sec{}
-.holyday-text-sec-p1{}
-.holyday-text-sec-h1{}
-.holyday-text-sec-p2{}
+.holyday-text-sec{
+
+   text-align: center;
+}
+.holyday-text-sec-p1{
+   color: #070211;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.holyday-text-sec-h1{
+   height: 90px;
+
+   width: 690px;
+   margin-top: 10px;
+   color: #070211;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+ }
+
+  
+ .holyday-text-sec-h1-span{
+   font-size: 72px;
+   font-family: Merriweather;
+   color: #F00;
+ }
+.holyday-text-sec-p2{
+   margin-top: 30px;
+   text-align: center;
+height: 100px;
+width: 885px;
+padding: 0px 25px;
+
+color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 32px;  
+}
+
+
+
+.holyday-img{
+
+   
+  
+ 
+   
+}
+.holy-img-left{}
+
+.holy-img--maint{
+   position: absolute;
+   margin-top: 80px;
+   display: inline-flex;
+   width: 430px;
+   height: 430px;
+}
+.holy-img--maint{}
+.h-r-sub{ 
+   position: relative;
+   margin-right: 500px;
+}
+
+.holyday-footer{
+   background: url("resources/Rectangle\ 2.png");
+
+   height: 230px;
+ 
+ 
+   width: 100%;
+}
+
+
+/* ptf-sec */
+
+
+
+.main-protfolio{
+
+   height: 1000px;
+   width: 100%;
+}
+
+.ptf-text-p1{
+text-align: left;
+   color: #F00;
+  
+   font-size: 24px;
+ 
+   font-weight: 500;
+  
+
+
+}
+.ptf-text-h2{
+
+
+   color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+ 
+font-weight: 900;
+ 
+text-transform: capitalize;
+}
+.ptf-text-p2{
+   color: rgba(7, 2, 17, 0.60);
+  font-size: 20px; 
+   line-height: 32px;  
+   height: 60px;
+   width: 890px;
+   margin-left: 0px;
+}
+
+
+.protfolio-items-main{
+   text-align: left;
+}
+
+
+
+     .pt-iteam1 {
+      
+display: flex;
+ 
+ margin: 20px 10px;
+width: 100%;
+     }
+
+     .pt-iteam2 {
+      display: flex;
+   
+     margin-left: 10px;
+      width: 100%;
+          
+   
+   }
+      
+.iitem{
+ 
+height: 450px;
+   width: 425px;
+
+
+}
+.iitem:hover{
+   background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(168,168,238,0.29315476190476186) 66%, rgba(0,212,255,1) 100%);
+   
+}
